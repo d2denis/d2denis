@@ -100,26 +100,7 @@
 
 			<section class="post-comments">
 				<a id="show-disqus" class="post-comments-activate">{{t "Show Comments"}}</a>
-			   <!--评论显示区，请插入合适的位置-->
-    <div class="comment"></div>
-<script src="https://cdnjs.loli.net/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <!--Leancloud 操作库:-->
-    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-    <!--Valine 的核心代码库-->
-    <script src="https://github.com/xCss/Valine/blob/master/dist/Valine.min.js"></script>
-    <script>
-        new Valine({
-            // AV 对象来自上面引入av-min.js(老司机们不要开车??゛扎心了老铁)
-            av: AV, 
-            el: '#Toxic comments',
-            emoticon_url: 'https://cloud.panjunwen.com/alu',
-            emoticon_list: ["吐.png","期待.png","高兴.png","吐血倒地.png","哭泣.png","欢呼.png"],
-            app_id: '8hxEz0IGiBPkYYysKv9KYslw-gzGzoHsz', // 这里填写上面得到的APP ID
-            app_key: 'UAWPPwVDtl44vPtTBdqrMP0N', // 这里填写上面得到的APP KEY
-            placeholder: 'ヾ?≧?≦)o来啊，快活啊!', // 留言框占位提示文字
-        });
-    </script>
- <div id="disqus_thread"></div>
+			    <div id="disqus_thread"></div>
 			</section>
 
             {{#if @labs.subscribers}}
