@@ -13,7 +13,11 @@
 
 	{{ghost_head}}
 </head>
-
+   {{# if post}}
+        <link rel="stylesheet" type="text/css" href="{{asset "css/valine.css"}}" />
+        <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+        <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+    {{/if}}
 <body class="{{body_class}}">
 
 	{{navigation}}
@@ -22,27 +26,6 @@
 		<a class="hidden-close"></a>
 		{{{body}}}
 		<div id="body-class" style="display: none;" class="{{body_class}}"></div>
-
-		<div class="inner">
-		<!--评论显示区，请插入合适的位置-->
-    <div class="comment"></div>
-    <!--Leancloud 操作库:-->
-    <script src="https://cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-    <!--Valine 的核心代码库-->
-    <script src='https://unpkg.com/valine/dist/Valine.min.js'></script>
-    <script>
-        new Valine({
-            // AV 对象来自上面引入av-min.js(老司机们不要开车??゛扎心了老铁)
-            av: AV, 
-            el: '.comment',
-            notify: false,
-            verify: false,
-            app_id: lc_appId, // 这里填写上面得到的APP ID
-            app_key: lc_appKey, // 这里填写上面得到的APP KEY
-            placeholder: '添加一条评论...', // 留言框占位提示文字
-        });
-    </script>
-    		</div>
 		<footer id="footer">
 		        
 			<div class="inner">
