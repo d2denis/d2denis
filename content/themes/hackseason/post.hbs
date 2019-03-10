@@ -1,4 +1,4 @@
-{{!< default}}
+﻿{{!< default}}
 
 {{!-- The tag above means: insert everything in this file
 into the {body} of the default.hbs template --}}
@@ -56,15 +56,6 @@ into the {body} of the default.hbs template --}}
                     </section>
                 </header>
                 {{content}}
-                <div class="bdsharebuttonbox">
-                    <span class="share-warn">可随意转载：</span>
-                    <a href="#" class="bds_qzone" style="background-image: url('http://hackbinimg.luokangyuan.com/socialicon/share-qzone.png')" data-cmd="qzone" title="分享到QQ空间"></a>
-                    <a href="#" class="bds_sqq" style="background-image: url('http://hackbinimg.luokangyuan.com/socialicon/share-qq.png')" data-cmd="sqq" title="分享到QQ好友"></a>
-                    <a href="#" class="bds_weixin" style="background-image: url('http://hackbinimg.luokangyuan.com/socialicon/share-wx.png')" data-cmd="weixin" title="分享到微信"></a>
-                    <a href="#" class="bds_tsina" style="background-image: url('http://hackbinimg.luokangyuan.com/socialicon/share-sina.png')" data-cmd="tsina" title="分享到新浪微博"></a>
-                    <a href="#" class="bds_more" style="background-image: url('http://hackbinimg.luokangyuan.com/share.png')" data-cmd="more"></a>
-                </div>
-                <br><br>
             </section>
             {{!-- Email subscribe form at the bottom of the page --}}
             {{#if @labs.subscribers}}
@@ -92,7 +83,7 @@ into the {body} of the default.hbs template --}}
             
             {{!-- 评论 --}}
             <section class="post-full-comments">
-            <!--PC版-->
+            <!--PC版
                 <div class="pinglun-pc">
                     <div id="SOHUCS" sid="{{id}}"></div>
                     <script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
@@ -103,6 +94,26 @@ into the {body} of the default.hbs template --}}
                     });
                     </script>
                 </div>
+                -->
+          <!--评论显示区，请插入合适的位置-->
+			    <div class="pinglun-pc">
+			    <!--Leancloud 操作库:-->
+			    <script src="https://cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+			    <!--Valine 的核心代码库-->
+			    <script src='https://unpkg.com/valine/dist/Valine.min.js'></script>
+			    <script>
+			        new Valine({
+			            // AV 对象来自上面引入av-min.js(老司机们不要开车??゛扎心了老铁)
+			            av: AV, 
+			            el: '.pinglun-pc',
+			            notify: false,
+			            verify: false,
+			            app_id: lc_appId, // 这里填写上面得到的APP ID
+			            app_key: lc_appKey, // 这里填写上面得到的APP KEY
+			            placeholder: 'Please comment here...', // 留言框占位提示文字
+			        });
+			    </script>
+			    </div>
             </section>
            
 

@@ -27,6 +27,9 @@
     {{ghost_head}}
 
 </head>
+   {{# if post}}
+        <link rel="stylesheet" type="text/css" href="{{asset "css/valine.css"}}" />
+    {{/if}}
 <body class="{{body_class}}">
 {{>phone-header}}
 
