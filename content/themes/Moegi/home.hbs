@@ -1,0 +1,36 @@
+<html>
+<head>
+    {{ghost_head}}
+</head>
+<body>
+{{!< default}}
+<header class="center">
+    <div class="blog-title"><a href="{{@blog.url}}">{{@blog.title}}</a></div>
+    <div class="blog-description">{{@blog.description}}</div>
+    <div class="top-nav">
+        {{#if @blog.navigation}}
+            {{navigation}}
+        {{/if}}
+        <div class="search-bar">
+            <div id="input-div">
+                <input id="search-input" type="text" placeholder="baidu..." />
+                <i id="close-btn" class="iconfont icon-close"></i>
+            </div>
+            <div id="search-btn">
+                <i class="iconfont icon-search"></i>
+            </div>
+        </div>
+    </div>
+</header>
+<main role="main">
+    <div id="archives-list" class="index-search-list typo"></div>
+    <div id="index-tag-cloud" class="index-tag-cloud center">
+        {{> "tag-cloud"}}
+    </div>
+    <div id="articles">
+        {{> "loop"}}
+    </div>
+    
+</main>
+</body>
+</html>
