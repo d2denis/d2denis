@@ -4,6 +4,10 @@ routes:
     template: 
       - home
       - index
+  /guidang/:
+    template: 
+      - guidang
+      - page-archives
 
 collections:
   /blog/:
