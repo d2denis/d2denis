@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/20180524?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="SNathJr/ghost-on-heroku" /><meta property="og:url" content="https://github.com/SNathJr/ghost-on-heroku" /><meta property="og:description" content="One-button Heroku deploy for the Ghost 2.0 blogging platform. - SNathJr/ghost-on-heroku" />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mzc1NDE5MjcxOjhkMWFjZDI1MWJmMjgxMDA4ZWY1OTMwOTgzZTI2Yzk3Yzk5ZTViNzg4YmI1NmFmZmQ0MDM3MzM2ZWY4YjllMGQ=--4d8cbb99f81b156171e578612bb7f79e783f307d">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mzc1NDE5MjcxOjFiMWMyYWI2YzJkZjllZDQzYmI1YjIwOTg5NDk3YWU3YTQ0ZjFmZjUwY2RmMTRhYTk2NzRkNGExYTJmMDY0YTQ=--6bb91269428dcc5d2733a3a35f01d89e86f40ee9">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="C56E:72B5:1634B9:2FD5DF:5C891AAD" data-pjax-transient>
+  <meta name="request-id" content="234F:61F6:4FC1E7:71500B:5C891C39" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="C56E:72B5:1634B9:2FD5DF:5C891AAD" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="38132854" /><meta name="octolytics-actor-login" content="d2denis" /><meta name="octolytics-actor-hash" content="59261ffa4191251c8c74f238cb47fa230a19be124ff7b7ff2c40fc7178296452" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="234F:61F6:4FC1E7:71500B:5C891C39" /><meta name="octolytics-dimension-region_edge" content="ap-southeast-1" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="38132854" /><meta name="octolytics-actor-login" content="d2denis" /><meta name="octolytics-actor-hash" content="59261ffa4191251c8c74f238cb47fa230a19be124ff7b7ff2c40fc7178296452" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="d2denis">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="N2ZiYTVkMTI3M2YzYTM5Yzg1YTdlYzZlNDU1ZmExMjhmNjQ3NjhlNGQyYjdhNmI1NjEzMTMwMDVlNzVhMTA0Y3x7InJlbW90ZV9hZGRyZXNzIjoiMy44OS42NS4xMjgiLCJyZXF1ZXN0X2lkIjoiQzU2RTo3MkI1OjE2MzRCOToyRkQ1REY6NUM4OTFBQUQiLCJ0aW1lc3RhbXAiOjE1NTI0ODkxMzQsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="MzQ3NTNkZmRhMjkzN2MwOWQwNjhiMmIxMmZhN2M0MDI2MDg4ZGI0NTE3MzZkYzJiZjljNDMzYWQyMjFhOGU4Mnx7InJlbW90ZV9hZGRyZXNzIjoiMTI0LjE2LjE4MC44NyIsInJlcXVlc3RfaWQiOiIyMzRGOjYxRjY6NEZDMUU3OjcxNTAwQjo1Qzg5MUMzOSIsInRpbWVzdGFtcCI6MTU1MjQ4OTUzOSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_SOCIAL_PROOF,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES,MARKETPLACE_BROWSING_V2">
 
@@ -157,7 +157,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=1K5Bv4NsRlRaYar/MkHmbBKYgAX5izfzTG+oecOlBuMsEfd44H0dRTSjRKwCC9F5whzCiZifE4dVrkJfQ6iQ9A=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=/BIFiqcFKmcoQyj2JrvTqDneHCO8k+rmP4ICTu3ZzlcErbNNxBRxdkaBxqUW8eS96Vper92HzpImQ+hobdRYQA=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -372,7 +372,7 @@
           
 <div class="js-user-status-container user-status-compact" data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
-    <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full" aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:20180524,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:38132854,&quot;client_id&quot;:&quot;2018446673.1534170591&quot;,&quot;originating_request_id&quot;:&quot;C56E:72B5:1634B9:2FD5DF:5C891AAD&quot;,&quot;originating_url&quot;:&quot;https://github.com/SNathJr/ghost-on-heroku/blob/master/yarn.lock&quot;}}" data-hydro-click-hmac="94dc706c973f9ca5ff02e562dbe4305348c923180b5ddf92f6ff3b94b6c3cb56">
+    <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full" aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:20180524,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:38132854,&quot;client_id&quot;:&quot;2018446673.1534170591&quot;,&quot;originating_request_id&quot;:&quot;234F:61F6:4FC1E7:71500B:5C891C39&quot;,&quot;originating_url&quot;:&quot;https://github.com/SNathJr/ghost-on-heroku/blob/master/yarn.lock&quot;}}" data-hydro-click-hmac="3d60593a17d1bef58bc3147c7bd56ef690555b56438312f50f44485eebd465ee">
       <div class="f6 d-inline-block v-align-middle  user-status-emoji-only-header pl-0 circle lh-condensed user-status-header " style="max-width: 29px">
         <div class="user-status-emoji-container flex-shrink-0 mr-1">
           <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 0 1-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 0 1-1.45-2.17A6.59 6.59 0 0 1 1.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 0 1 8 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z"/></svg>
@@ -382,7 +382,7 @@
           <span class="link-gray">Set your status</span>
       </div>
 </summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="hwJ5uI+PIcT5FG88Wd0ik2IB294FQoiCIxUrpknjV0VmSInJNXKaKb9nQv3Vcb611uUbcRFq3Vqmu39VL7d1PA==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="vAkOPrUxnsjRjVw0M+1/Z7F3jjNAIAO3CVr2fx9ylvxdQ/5PD8wlJZf+cfW/QeNBBZNOnFQIVm+M9KKMeSa0hQ==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -498,7 +498,7 @@
         <div role="none" class="dropdown-divider"></div>
         <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
         <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="hM2KQTMoT5dXcCzhBAWc8n+GRxyJn2NpypeM7sRp0vVUCf4q8NOj+j1ZODf8KKhKBJRUSeA1sSviqeaUcXhr3g==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bVSkphB8IjC/ioaSBRhrus6v6F8W+s2yJAiJ6Jg92j29kNDN04fOXdWjkkT9NV8Ctb37Cn9QH/AMNuOSLSxjFg==" />
           
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
             Sign out
@@ -510,7 +510,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5HLwEtbg7mPjOP0Gitpcvn81/FyYwWbYmc/o2ZfczF40toR5FRsCDokR6dBy92gGBCfvCfFrtJqx8YKjIs11dQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XuxjB6qWiQdMs8owhf37rUXW7h05HEaMnBf4NA51ZQGOKBdsaW1laiaa3uZ90M8VPsT9SFC2lM60KZJOu2TcKg==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -552,10 +552,10 @@
 
 
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0yOdcvbWGO+N69OEg0j6rpPhM16937spIhrZGr2DWAzTdzmLxL8eYGy8BU0mGZoPjdMWC/dbndBOPsvCmxWt9Q==" />      <input type="hidden" name="repository_id" id="repository_id" value="138167381" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vNpFgu8DtlWeQH2/lRSiD2G2C5mXZFqSXfjVbqffkEa8juF73Wqw2n8Xq3YwRcKuf4QuzN3gfGsx3Me2gUllvw==" />      <input type="hidden" name="repository_id" id="repository_id" value="138167381" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="btn btn-sm btn-with-count select-menu-button" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;user_id&quot;:38132854,&quot;record_id&quot;:138167381,&quot;client_id&quot;:&quot;2018446673.1534170591&quot;,&quot;originating_request_id&quot;:&quot;C56E:72B5:1634B9:2FD5DF:5C891AAD&quot;,&quot;originating_url&quot;:&quot;https://github.com/SNathJr/ghost-on-heroku/blob/master/yarn.lock&quot;}}" data-hydro-click-hmac="86fb32eb14f5e715e03f623a02334af05bbbcc3e1650eefaa8117d6395b300a3" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="btn btn-sm btn-with-count select-menu-button" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;user_id&quot;:38132854,&quot;record_id&quot;:138167381,&quot;client_id&quot;:&quot;2018446673.1534170591&quot;,&quot;originating_request_id&quot;:&quot;234F:61F6:4FC1E7:71500B:5C891C39&quot;,&quot;originating_url&quot;:&quot;https://github.com/SNathJr/ghost-on-heroku/blob/master/yarn.lock&quot;}}" data-hydro-click-hmac="6b5fb0731b45fe62953959ae920b62a3442ae9e91ad81c3560b2ce7b4341e696" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -624,18 +624,18 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/SNathJr/ghost-on-heroku/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3ORbEsqB13WxA6C+RDe+wNtIx+42626V/XqsWmEt0PlYsy+aOp++MGNsZ4NGUn0bbXUODC/oeHNJMaji4kZsTw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/SNathJr/ghost-on-heroku/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1gX7U0Nj4Fxx9MdJrbdNJTmNCBBC3FGxCjoSW7XzYmRSUo/bs32JGaObAHSv0o7+j7DB8lvfR1e+cRbjNpje0g==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar SNathJr/ghost-on-heroku" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;user_id&quot;:38132854,&quot;record_id&quot;:138167381,&quot;client_id&quot;:&quot;2018446673.1534170591&quot;,&quot;originating_request_id&quot;:&quot;C56E:72B5:1634B9:2FD5DF:5C891AAD&quot;,&quot;originating_url&quot;:&quot;https://github.com/SNathJr/ghost-on-heroku/blob/master/yarn.lock&quot;}}" data-hydro-click-hmac="32a324942e70c1241218cf78293a3c89127b7072737aac22cca8fb2fe5689c3d" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar SNathJr/ghost-on-heroku" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;user_id&quot;:38132854,&quot;record_id&quot;:138167381,&quot;client_id&quot;:&quot;2018446673.1534170591&quot;,&quot;originating_request_id&quot;:&quot;234F:61F6:4FC1E7:71500B:5C891C39&quot;,&quot;originating_url&quot;:&quot;https://github.com/SNathJr/ghost-on-heroku/blob/master/yarn.lock&quot;}}" data-hydro-click-hmac="b8c1885313e06b8ebdb8673a921e20896fca62493887751fa88cd131a88def6b" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/SNathJr/ghost-on-heroku/stargazers"
            aria-label="13 users starred this repository">
           13
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/SNathJr/ghost-on-heroku/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="poBMVk4aonHYpmvKVfWRPlRlsGzBuoeaOjdr1KzEtZ7yfZvn3ojNjQL7OV1X2Bj4KOEc9nEdDNCoEyxXFfL6Bw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/SNathJr/ghost-on-heroku/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ryid36r4KOgONin+uxrWzVldm16PJtVk5YuIKYtcN1T71UpuOmpHFNRre2m5N18LJdk3xD+BXi53r8+qMmp4zQ==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star SNathJr/ghost-on-heroku" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;user_id&quot;:38132854,&quot;record_id&quot;:138167381,&quot;client_id&quot;:&quot;2018446673.1534170591&quot;,&quot;originating_request_id&quot;:&quot;C56E:72B5:1634B9:2FD5DF:5C891AAD&quot;,&quot;originating_url&quot;:&quot;https://github.com/SNathJr/ghost-on-heroku/blob/master/yarn.lock&quot;}}" data-hydro-click-hmac="005cd15085a1c45dcaca2a44c6b1c7dc9ca4789f8ef3b9cfbae4674ec49ef33d" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star SNathJr/ghost-on-heroku" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;user_id&quot;:38132854,&quot;record_id&quot;:138167381,&quot;client_id&quot;:&quot;2018446673.1534170591&quot;,&quot;originating_request_id&quot;:&quot;234F:61F6:4FC1E7:71500B:5C891C39&quot;,&quot;originating_url&quot;:&quot;https://github.com/SNathJr/ghost-on-heroku/blob/master/yarn.lock&quot;}}" data-hydro-click-hmac="d6dbfa6d8f93e7b4c3a8d0eb3151efbfccd6da54e2a8b4499295143fe505e3bd" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/SNathJr/ghost-on-heroku/stargazers"
            aria-label="13 users starred this repository">
@@ -646,8 +646,8 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/SNathJr/ghost-on-heroku/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="gWni2PJnSVuSky1R2wvQRmmEGwYrpteSJqLIqF8wlPcjqTDnYYyDSvu4xBKUWQKjUxCrngpXgnL2d36pnnQ1Bg==" />
-            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;user_id&quot;:38132854,&quot;record_id&quot;:138167381,&quot;client_id&quot;:&quot;2018446673.1534170591&quot;,&quot;originating_request_id&quot;:&quot;C56E:72B5:1634B9:2FD5DF:5C891AAD&quot;,&quot;originating_url&quot;:&quot;https://github.com/SNathJr/ghost-on-heroku/blob/master/yarn.lock&quot;}}" data-hydro-click-hmac="085ba98ef6bb18588eda73fa57cea4e387bcfa38599b812fac461dc0e37cc122" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of SNathJr/ghost-on-heroku to your account" aria-label="Fork your own copy of SNathJr/ghost-on-heroku to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/SNathJr/ghost-on-heroku/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3+RRk3YANYf4xC6wU2O+q+p3rFohsgK8AG4RtwbC5H59JIOs5ev/lpHvx/McMWxO0OMcwgBDV1zQu6e2x4ZFjw==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;user_id&quot;:38132854,&quot;record_id&quot;:138167381,&quot;client_id&quot;:&quot;2018446673.1534170591&quot;,&quot;originating_request_id&quot;:&quot;234F:61F6:4FC1E7:71500B:5C891C39&quot;,&quot;originating_url&quot;:&quot;https://github.com/SNathJr/ghost-on-heroku/blob/master/yarn.lock&quot;}}" data-hydro-click-hmac="3d3e8840799a140844c9e98f11fd68b4e43a6cf96bdf2190bce76f0b3ad89dec" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of SNathJr/ghost-on-heroku to your account" aria-label="Fork your own copy of SNathJr/ghost-on-heroku to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
 </button></form>
     <a href="/SNathJr/ghost-on-heroku/network/members" class="social-count"
@@ -804,13 +804,13 @@
                 <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
             </a>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/SNathJr/ghost-on-heroku/edit/master/yarn.lock" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bhsPCm1oy/LQ5r3Q4XYDkCiLpggL0i9622C9YRRVD+hsePsvVet2YM1FF8E26wvURu2OPbf2T36r2RrzajKb8A==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/SNathJr/ghost-on-heroku/edit/master/yarn.lock" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="oP0P8nYpEHFR56/iFU5ucQR8Aqb72f+f2lSysZO1d6KinvvXTqqt40xEBfPC02Y1ahoqk0f9n5uq7RUj7dLjug==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/SNathJr/ghost-on-heroku/delete/master/yarn.lock" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="KMC5+U/G+aNs8srrtGY8TazWnhqU4Q+cTg3H4x127sEID4lXLXYHRpBakA9h6esKJhmm9rKpfU0F7wzm4NPwKg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/SNathJr/ghost-on-heroku/delete/master/yarn.lock" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="hndRR9Bzh6N7ZjwiUUHCR2B0vpsripjyqiy30So7tMemuGHpssN5RofOZsaEzhUA6ruGdw3C6iPhznzU156qLA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -23843,7 +23843,7 @@
 <div class="footer container-lg width-full px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2019 <span title="0.90524s from unicorn-8555d445cc-wcnmg">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2019 <span title="0.73104s from unicorn-7d49d5549f-cn58l">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
